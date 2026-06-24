@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**Armel75/Armel75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bonjour, je suis Armel Deffo
 
-Here are some ideas to get you started:
+Développeur Full Stack Web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- React
+- Node.js
+- Python
+- FastAPI
+- SQL Server / PostgreSQL
+- TypeScript
+- Laravel
+- Odoo 17
+  
+## Mes projets
+
+### Gestion Incident
+Application de gestion des incidents basé sur React / Node Js.
+
+### Gestion Campagne
+Application web de gestion des campagnes marketing basé sur React / Node Js.
+
+### Audit
+Application web de gestion des missions d'audits basé sur React / Node Js.
+
+### Btp
+Application web de gestion des projets chantier basé sur React / Node Js.
+
+### Portail Captif
+Portail Captif d'accès et de presentation de toutes les applications utiliser par l'entreprise ou nous travaillons.
+
+## Contact
+
+- Email : deffoarmel2036@yahoo.com | deffoarmel758@gmail.com
